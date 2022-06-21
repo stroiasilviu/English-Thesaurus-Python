@@ -1,4 +1,4 @@
-# App1: English Dictionary V2
+# English Dictionary V2
 
 import json
 from difflib import get_close_matches
